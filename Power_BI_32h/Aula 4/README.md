@@ -1,4 +1,4 @@
-# Aula02 - DashBoard
+# Aula04 - DashBoard
 ## Visualizações com diversas fontes de dados
 - Dados não estruturados Excel
 - Dados estruturados CSV
@@ -11,9 +11,9 @@
 ## Transformação
 - Clicar em **Transformar** para fazer o tratamento dos dados na importação com **Power Query**
 - Classificar as colunas, os valores numéricos utilizando localidade e o que mais for necessário
-- Criação de Dashboards (Paineis de controle - intereção -visualização de dados)
+- Criação de Dashboards (Painéis de controle - interações - visualização de dados)
 ## Visualização
-- Uma prática utilizada para formatar um Dasboar é desenhar o painel de controle antes de iniciar.
+- Uma prática utilizada para formatar um Dashboar é desenhar o painel de controle antes de iniciar.
 - podemos utilizar o Paint, Canvas, Figma ou outra ferramenta de desenho, para esboçar um layout.
 - Para esta atividade vamos usar como fundo o arquivo **./ilustracoes/fundo.png**
 
