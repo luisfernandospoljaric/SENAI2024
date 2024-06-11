@@ -23,3 +23,10 @@ Adicione o gráfico: Insira um gráfico de colunas e coloque a hierarquia de dat
 Ative o Drill Down: Clique no ícone de drill down.
 Perfure os dados: Clique em um ano específico (por exemplo, 2023). O gráfico agora mostrará os dados trimestrais para 2023.
 Perfure ainda mais: Clique em um trimestre para ver os dados mensais.
+
+## Benefícios do Drill Down
+Intuitividade: Facilita a navegação pelos dados de forma intuitiva, permitindo que usuários não técnicos façam análises detalhadas.
+
+Detalhamento Incremental: Permite começar com uma visão ampla e ir detalhando conforme necessário, sem sobrecarregar o usuário com todas as informações de uma vez.
+
+Análise Profunda: Ajuda a identificar padrões, tendências e outliers em diferentes níveis de detalhe.
