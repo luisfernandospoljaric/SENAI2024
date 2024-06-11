@@ -35,3 +35,21 @@ Perfure ainda mais: Clique em um trimestre para ver os dados mensais.
 - Detalhamento Incremental: Permite começar com uma visão ampla e ir detalhando conforme necessário, sem sobrecarregar o usuário com todas as informações de uma vez.
 
 - Análise Profunda: Ajuda a identificar padrões, tendências e outliers em diferentes níveis de detalhe.
+
+
+# Publicações:
+    Publicar seu projeto de Power BI envolve vários passos, dependendo de onde você deseja compartilhar o seu trabalho. Vou detalhar os principais métodos:
+
+## Publicar no Power BI Service
+1. Preparar o Relatório: Certifique-se de que o relatório esteja completo e sem erros no Power BI Desktop
+
+2. Publicar:
+- Abra o Power BI Desktop e carregue o relatório que você deseja publicar. 
+- Clique em Publicar no canto superior direito.
+- Selecione seu Workspace no Power BI Service (ou crie um novo).
+
+3. Configurar as Credenciais de Fonte de Dados:
+- Após a publicação, acesse o Power BI Service (app.powerbi.com).
+- Vá para o Workspace onde o relatório foi publicado.
+- Clique em Configurações do dataset associado ao relatório.
+- Configure as credenciais da fonte de dados para garantir que a atualização de dados funcione corretamente.
