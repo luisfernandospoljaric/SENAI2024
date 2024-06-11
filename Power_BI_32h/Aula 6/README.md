@@ -6,14 +6,19 @@ Um segmentador de dados é um tipo de filtro visual que pode ser adicionado a um
 
 A segmentação de dados no Power BI é uma ferramenta essencial para criar relatórios interativos e dinâmicos. Ela permite que os usuários filtrem e explorem dados de maneira intuitiva, melhorando a capacidade de análise e tomada de decisão baseada em dados.
 
+## Benefícios dos Segmentadores de Dados
+- Interatividade: Melhora a interatividade do relatório, permitindo que os usuários explorem os dados de diferentes perspectivas.
+- Facilidade de Uso: Segmentadores são intuitivos e fáceis de usar, mesmo para usuários sem experiência técnica.
+- Análise Dinâmica: Permitem análises dinâmicas e rápidas, sem a necessidade de criar múltiplas versões do mesmo relatório para diferentes cenário
+
 # DrillDown
 Drill down em Power BI é uma funcionalidade que permite aos usuários explorar dados em níveis mais detalhados dentro de uma hierarquia. Isso é particularmente útil para análise de dados complexos, onde você pode começar com uma visão geral e, em seguida, aprofundar-se em dados mais específicos. Aqui está como funciona:
 
 ## Hierarquias de Dados
 Primeiro, é importante ter hierarquias de dados configuradas. Uma hierarquia pode ser composta de diferentes níveis, como:
 
-Ano -> Trimestre -> Mês -> Dia
-Continente -> País -> Estado -> Cidade
+- Ano -> Trimestre -> Mês -> Dia
+- Continente -> País -> Estado -> Cidade
 
 ## Exemplo Prático
 Suponha que você tenha um gráfico de vendas por ano e deseja analisar as vendas trimestrais dentro de um ano específico:
@@ -25,8 +30,8 @@ Perfure os dados: Clique em um ano específico (por exemplo, 2023). O gráfico a
 Perfure ainda mais: Clique em um trimestre para ver os dados mensais.
 
 ## Benefícios do Drill Down
-Intuitividade: Facilita a navegação pelos dados de forma intuitiva, permitindo que usuários não técnicos façam análises detalhadas.
+- Intuitividade: Facilita a navegação pelos dados de forma intuitiva, permitindo que usuários não técnicos façam análises detalhadas.
 
-Detalhamento Incremental: Permite começar com uma visão ampla e ir detalhando conforme necessário, sem sobrecarregar o usuário com todas as informações de uma vez.
+- Detalhamento Incremental: Permite começar com uma visão ampla e ir detalhando conforme necessário, sem sobrecarregar o usuário com todas as informações de uma vez.
 
-Análise Profunda: Ajuda a identificar padrões, tendências e outliers em diferentes níveis de detalhe.
+- Análise Profunda: Ajuda a identificar padrões, tendências e outliers em diferentes níveis de detalhe.
