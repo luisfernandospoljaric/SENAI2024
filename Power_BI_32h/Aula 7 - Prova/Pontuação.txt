@@ -1,0 +1,14 @@
+Prova:
+
+- 50 pontos
+Carrega os dados do arquivo "Dados Vendas Ecommerce.xlsx".
+Realizar o tratamento dados, acertando seus tipos e se necessário organiza-los.
+Renomear as tabelas com os nomes "Histórico de Vendas" e "Cadastro De produto"
+Fazer o relacionamento das tabelas. (IMPORTANTE!)
+
+- 50 ponto
+Demonstrar em modo gráfico o Faturamento ao longo do tempo.
+Demonstrar a representatividade das vendas (Quem vendeu mais, app mobile ou website).
+Fazer uma matriz demonstrando a categoria, quantidade vendida e Valor total.
+Demonstrar vendas totais por categoria.
+Apresentar Faturalmento, Quantidade de itens vendidos, quantidade de produtos e quantidade de pedidos.
