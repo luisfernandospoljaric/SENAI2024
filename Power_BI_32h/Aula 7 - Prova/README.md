@@ -14,3 +14,13 @@ Carrega os dados do arquivo "Dados Vendas Ecommerce.xlsx".
 - Demonstrar vendas totais por categoria.
 - Apresentar Faturamento, Quantidade de itens vendidos, quantidade de produtos e quantidade de  pedidos.
 
+# Final da prova.
+Ao Finalizar a prova chame o professor para fazer a correção em seu computador.
+
+Em caso de atrasos para a entrega encaminhe para luis.spoljaric@sp.senai.br
+
+## Notas
+A média do SENAI é 50 pontos!
+
+
+# BOA SORTE!!!
