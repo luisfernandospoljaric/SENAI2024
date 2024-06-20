@@ -1,0 +1,34 @@
+<Departamentos>
+    <Departamento>
+        <ID>DEP01</ID>
+        <Nome>Vendas</Nome>
+        <Localizacao>São Paulo</Localizacao>
+        <Responsavel>Maria Silva</Responsavel>
+        <Orcamento>R$ 500.000,00</Orcamento>
+        <Numero_Funcionarios>2</Numero_Funcionarios>
+    </Departamento>
+    <Departamento>
+        <ID>DEP02</ID>
+        <Nome>Marketing</Nome>
+        <Localizacao>Rio de Janeiro</Localizacao>
+        <Responsavel>Carlos Souza</Responsavel>
+        <Orcamento>R$ 400.000,00</Orcamento>
+        <Numero_Funcionarios>4</Numero_Funcionarios>
+    </Departamento>
+    <Departamento>
+        <ID>DEP03</ID>
+        <Nome>TI</Nome>
+        <Localizacao>Brasília</Localizacao>
+        <Responsavel>Ana Oliveira</Responsavel>
+        <Orcamento>R$ 600.000,00</Orcamento>
+        <Numero_Funcionarios>3</Numero_Funcionarios>
+    </Departamento>
+    <Departamento>
+        <ID>DEP04</ID>
+        <Nome>Recursos Humanos</Nome>
+        <Localizacao>Belo Horizonte</Localizacao>
+        <Responsavel>Rafaela Santos</Responsavel>
+        <Orcamento>R$ 300.000,00</Orcamento>
+        <Numero_Funcionarios>2</Numero_Funcionarios>
+    </Departamento>
+</Departamentos>

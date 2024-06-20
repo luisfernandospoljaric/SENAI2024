@@ -1,0 +1,81 @@
+{
+  "Funcionarios": [
+    {
+      "Codigo": "FNC001",
+      "Nome": "João Silva",
+      "Email": "joao.silva@example.com",
+      "Telefone": "123-456-7890",
+      "Cidade": "São Paulo"
+    },
+    {
+      "Codigo": "FNC002",
+      "Nome": "Maria Santos",
+      "Email": "maria.santos@example.com",
+      "Telefone": "234-567-8901",
+      "Cidade": "Rio de Janeiro"
+    },
+    {
+      "Codigo": "FNC003",
+      "Nome": "Pedro Oliveira",
+      "Email": "pedro.oliveira@example.com",
+      "Telefone": "345-678-9012",
+      "Cidade": "Belo Horizonte"
+    },
+    {
+      "Codigo": "FNC004",
+      "Nome": "Ana Pereira",
+      "Email": "ana.pereira@example.com",
+      "Telefone": "456-789-0123",
+      "Cidade": "Brasília"
+    },
+    {
+      "Codigo": "FNC005",
+      "Nome": "Carlos Souza",
+      "Email": "carlos.souza@example.com",
+      "Telefone": "567-890-1234",
+      "Cidade": "Salvador"
+    },
+    {
+      "Codigo": "FNC006",
+      "Nome": "Juliana Lima",
+      "Email": "juliana.lima@example.com",
+      "Telefone": "678-901-2345",
+      "Cidade": "Recife"
+    },
+    {
+      "Codigo": "FNC007",
+      "Nome": "Marcos Santos",
+      "Email": "marcos.santos@example.com",
+      "Telefone": "789-012-3456",
+      "Cidade": "Fortaleza"
+    },
+    {
+      "Codigo": "FNC008",
+      "Nome": "Fernanda Costa",
+      "Email": "fernanda.costa@example.com",
+      "Telefone": "890-123-4567",
+      "Cidade": "Manaus"
+    },
+    {
+      "Codigo": "FNC009",
+      "Nome": "Luiz Oliveira",
+      "Email": "luiz.oliveira@example.com",
+      "Telefone": "901-234-5678",
+      "Cidade": "Curitiba"
+    },
+    {
+      "Codigo": "FNC010",
+      "Nome": "Patricia Silva",
+      "Email": "patricia.silva@example.com",
+      "Telefone": "012-345-6789",
+      "Cidade": "Porto Alegre"
+    },
+    {
+      "Codigo": "FNC011",
+      "Nome": "Rafael Martins",
+      "Email": "rafael.martins@example.com",
+      "Telefone": "123-456-7890",
+      "Cidade": "Goiânia"
+    }
+  ]
+}
