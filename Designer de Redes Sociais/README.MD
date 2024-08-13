@@ -1,31 +1,31 @@
 Curso de Designer de Redes Sociais (60 horas)
 
-Aula 1: 
-	Introdução às Redes Sociais e Sua História
-	Introdução às Redes Sociais
-	Surgimento e evolução das redes sociais
-	Principais redes sociais e suas características
+#Aula 1: 
+	- Introdução às Redes Sociais e Sua História
+	- Introdução às Redes Sociais
+	- Surgimento e evolução das redes sociais
+	- Principais redes sociais e suas características
 
-Aula 2: 
-	Impacto e Tendências das Redes Sociais
-	Impacto das redes sociais na sociedade
-	Estudos de caso
-	Tendências futuras das redes sociais
+#Aula 2: 
+	- Impacto e Tendências das Redes Sociais
+	- Impacto das redes sociais na sociedade
+	- Estudos de caso
+	- Tendências futuras das redes sociais
 
-Aula 3: 
-	Fundamentos da Edição de Imagens
-	Introdução aos softwares de edição de imagens (Photoshop, GIMP, Canva)
-	Ferramentas básicas do Photoshop
+#Aula 3: 
+	- Fundamentos da Edição de Imagens
+	- Introdução aos softwares de edição de imagens (Photoshop, GIMP, Canva)
+	- Ferramentas básicas do Photoshop
 
-Aula 4: 
-	Técnicas Avançadas de Edição de Imagens
-	Técnicas avançadas no Photoshop
-	Utilizando GIMP para edição de imagens
+#Aula 4: 
+	- Técnicas Avançadas de Edição de Imagens
+	- Técnicas avançadas no Photoshop
+	- Utilizando GIMP para edição de imagens
 
-Aula 5: 
-	Design Gráfico com Canva e Edição de Vídeos
-	Design gráfico com Canva
-	Introdução aos softwares de edição de vídeos (Adobe Premiere, Final Cut, DaVinci Resolve)
+#Aula 5: 
+	- Design Gráfico com Canva e Edição de Vídeos
+	- Design gráfico com Canva
+	- Introdução aos softwares de edição de vídeos (Adobe Premiere, Final Cut, DaVinci Resolve)
 
 Aula 6: 
 	Edição Básica e Avançada com Adobe Premiere
