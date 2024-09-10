@@ -66,5 +66,15 @@ int main(){
 ## Missão
 - Assistir o vídeo: [Hello World Como Você Nunca Viu! | Entendendo C](https://www.youtube.com/watch?v=Gp2m8ZuXoPg) de Fábio Akita.
 
-## Para instalar em casa
-- Download DEV C++ https://sourceforge.net/projects/visualg30/
+# EXERCICIOS
+
+1 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+
+2 - Faça um Programa que converta metros para centímetros.
+
+3 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
+4 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
+5 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+
