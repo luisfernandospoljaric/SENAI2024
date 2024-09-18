@@ -16,7 +16,7 @@
 1. Idealizar um campanha para a rede social escolhida, instagram, facebook, LinkedIn, entre outras. Com a campanha quero que valorizem o público alvo de vocês, indiquem gênero, faixa etária e outras caracteristicas de pessoas que devem ser atingidas.
 A Campanha pode ser uma promoção, divulgação, venda, compra ou apenas uma chamada para ganhar mais seguidores.
 
-OBS: Para o desenvolvimento da campanha quero documentado os passo a passo do que foram realizados. Vou deixar todos os passos que devem ser seguindos na campanha descritos no final da atividade. Podem utilizar papel, word, excel...
+- OBS: Para o desenvolvimento da campanha quero documentado os passo a passo do que foram realizados. Vou deixar todos os passos que devem ser - seguindos na campanha descritos no final da atividade. Podem utilizar papel, word, excel...
 
 2. Tire algumas fotos, grave alguns videos, utilize o conceito de iluminação, edição, interação.
 
@@ -25,6 +25,17 @@ OBS: Para o desenvolvimento da campanha quero documentado os passo a passo do qu
 4. Para a postagem, gostaria que me apresentassem uma descrição nos moldes que vimos, interação, informação, detalhes e utilização de hashtags.
 
 5. Crie uma BIO ou refatore a sua já existente, utilize os assuntos abordados durante a aula, como: Informações que são relevantes, contatos, descrições, links, o seu @, entre outros...
+
+6. Criem um cronograma de publicações, roteiro, tema, duração, dias...
+
+## DESAFIO
+
+- Quem já realizou os procedimento. Faça todos novamente utilizando outro contexto totalmente fora do seu negócio.
+
+- EXEMPLO: Seu instagram é de um restaurante, faça a atividade novamente pensando em uma revenda de carros.
+
+O objetivo desse desafio é tirar vocês da zona de conforto e colocarem em pratica outro contexto totalmente diferente. Como você faria isso em uma área a qual você não conhece?
+É necessário várias pesquisas antes, conhecer publico, verificar qual bios se encaixa, quais hashtag utilizar... Quero que pensem nisso.
 
 # Descrição e passo a passo de como desenvolver uma campanha:
 
