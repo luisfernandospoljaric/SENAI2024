@@ -70,6 +70,19 @@ int main(){
 
 1 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
+    Var
+    // Seção de Declarações das variáveis 
+    n1 : inteiro
+
+    Inicio
+    // Seção de Comandos, procedimento, funções, operadores, etc... 
+    escreval("Me informe um numero ")
+    leia(n1)
+
+    escreval("O número informado foi: ", n1)
+
+    Fimalgoritmo
+
 2 - Faça um Programa que converta metros para centímetros.
 
 3 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
