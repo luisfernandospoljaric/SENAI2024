@@ -85,11 +85,73 @@ int main(){
 
 2 - Faça um Programa que converta metros para centímetros.
 
+    Var
+    // Seção de Declarações das variáveis 
+    metros, centimetros : real
+
+    Inicio
+    // Seção de Comandos, procedimento, funções, operadores, etc...
+    escreval("Me informe o tanto de metros que quer converter em centimetros")
+    leia(metros)
+
+    centimetros <- metros * 100
+
+    escreval ("A quantidade de ", metros, " metros em centimentros, eh: ",centimetros, "cm")
+
+    Fimalgoritmo
+
 3 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
+    Var
+    // Seção de Declarações das variáveis 
+    raio, area : inteiro
+
+    Inicio
+    // Seção de Comandos, procedimento, funções, operadores, etc... 
+    escreval("informe o Raio do circulo para que o calculo da area seja feito")
+    leia (raio)
+
+    area <- PI * (raio ^ 2)
+
+    Fimalgoritmo
 
 4 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
+Var
+// Seção de Declarações das variáveis 
+lado, dobro: Real
+
+
+    Inicio
+    // Seção de Comandos, procedimento, funções, operadores, etc... 
+    Escreval ("Informe o lado do quadrado.")
+    leia(lado)
+
+    lado <- lado * lado
+    dobro <- lado*2
+
+    escreval("A area do quadro eh: ", lado)
+    escreval("o dobro da area do quadro eh:",dobro)
+
+    Fimalgoritmo
+
 5 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+
+    Var
+    // Seção de Declarações das variáveis
+    c, f : real
+
+    Inicio
+    // Seção de Comandos, procedimento, funções, operadores, etc...
+    escreval("informe em celsius")
+    leia(c)
+
+    f <- (c* 9/5)+32
+
+    escreval(f)
+
+
+    Fimalgoritmo
 
 # Formulário para envio:
 
