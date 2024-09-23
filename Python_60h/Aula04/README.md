@@ -53,3 +53,5 @@ Um joalheiro possui 9 pérolas e uma balançã do tipo prato de dois pratos. Tod
 
 6 - Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 
+# Formulário de entrega
+https://docs.google.com/forms/d/e/1FAIpQLSdgq_7JTy500LHL4gGCx7SNRDWtBv8UY7XpcksBnUdF5mB82g/viewform?usp=sf_link
