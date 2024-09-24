@@ -4,7 +4,7 @@
 - Como impulsionar seus anuncios:
 
 ## Links do SEBRAE sobre o assunto:
-- Você sabia que criar uma campanha de anúncios é diferente de impulsionar um post no Instagram? Isso mesmo, são coisas diferentes. Impulsionar é pagar para que sua publicação chegue a mais usuários do Instagram. São aqueles posts que aparecem com a indicação “Patrocinado”.  
+Você sabia que criar uma campanha de anúncios é diferente de impulsionar um post no Instagram? Isso mesmo, são coisas diferentes. Impulsionar é pagar para que sua publicação chegue a mais usuários do Instagram. São aqueles posts que aparecem com a indicação “Patrocinado”.  
 
 A diferença do anúncio é que no impulsionamento você paga para que uma publicação já existente chegue a mais pessoas. No caso do anúncio, você cria suas campanhas em plataformas específicas, como Facebook Ads ou Google Ads, e envia para o público segmentado. 
 
