@@ -1,6 +1,6 @@
 
 
-# Aula 17, 18, 19 
+# Aula 20
 - Como impulsionar seus anuncios:
 
 ## Links do SEBRAE sobre o assunto:
