@@ -6,6 +6,7 @@ Todo conteudo esta nos slides.
 ## Todos os exercicios precisam ser feitos em Python!
 
 ## Fáceis
+
 1. Verificação de Paridade: Escreva um programa que peça ao usuário para inserir um número e imprima se ele é par ou ímpar.
 
 2. Maior de Dois Números: Peça dois números ao usuário e determine qual é o maior.
@@ -13,6 +14,7 @@ Todo conteudo esta nos slides.
 3. Verificação de Positivo/Negativo/Zero: Escreva um programa que peça um número e informe se ele é positivo, negativo ou zero.
 
 ## Médios
+
 4. Classificação por Idade: Crie um programa que peça a idade do usuário e classifique-o como:
 
 Menor de idade (abaixo de 18)
@@ -38,6 +40,10 @@ Dica: Qualquer ano que seja uniformemente divisível por 4 é um ano bissexto: p
 ## DESAFIO
 
 10. Jogo de Adivinhação: Escreva um programa que escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número, e o programa deve dar dicas se o número é maior ou menor a cada tentativa.
+
+Dica: importar uma biblioteca que se chama "random". Busque como funciona a biblioteca.
+Dica: Utilizara um laço de repetição... Verifique qual melhor se enquadra
+
 
 # Formulário de entrega
 
