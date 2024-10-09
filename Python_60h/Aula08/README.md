@@ -25,7 +25,7 @@ Todo conteudo esta nos slides.
 
 7. Crie uma lista com as notas de 10 alunos e calcule a média da turma, a maior nota e a menor nota.
 
-Crie uma lista com os nomes de 5 cidades e ordene a lista em ordem alfabética
+8. Crie uma lista com os nomes de 5 cidades e ordene a lista em ordem alfabética
 
 9. Crie uma lista com os números de 1 a 10 e remova todos os números pares.
 
