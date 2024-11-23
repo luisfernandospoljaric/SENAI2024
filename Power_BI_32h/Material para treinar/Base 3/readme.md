@@ -63,7 +63,7 @@ Crie as seguintes visualizações no **relatório**:
 - Adicione um **filtro** no painel que permita visualizar os dados por **Departamento**.
 
 ### 6. **Personalização**
-- Adicione um **slicer** para permitir que o usuário selecione intervalos de datas.
+- Adicione uma **segmentação de dados** para permitir que o usuário selecione intervalos de datas.
 - Configure a página com cores e logotipo da empresa fictícia.
 
 ---
